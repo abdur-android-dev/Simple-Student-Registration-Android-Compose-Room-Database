@@ -1,12 +1,12 @@
-<h1>Simple Student Registration app in Jetpack compose Using Room Database</h1>
+<h1>Simple Student Registration app in Jetpack Compose Using Room Database</h1>
 A simple basic student registration app that stores and retrieves ID, Name, Email, Phone number, and picture to a Room database.
 
 <h2>Learning</h2>
-<li>Basic few CRUD operations using room databse </li>
+<li>Basic few CRUD operations using room database </li>
 <li>Add a student with basic details, especially with a profile image.</li>
 <li>Retrieve data from the database and Navigation System.</li>
 <li>Uses Dagger Hilt for dependency injection to manage and provide app-level dependencies.</li>
-<li>Easy to understand, manage, scalable code using the MVVM pattern.</li>
+<li>Easy to understand, manage, and scalable code using the MVVM pattern.</li>
 
 <h2>Screenshots</h2>
 <p align="center">

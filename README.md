@@ -10,9 +10,9 @@ A simple basic student registration app that stores and retrieves ID, Name, Emai
 
 <h2>Screenshots</h2>
 <p align="center">
-  <img src="https://github.com/abdur-android-dev/Get-All-Videos-in-Android-Jetpack-Compose/blob/master/screen_1.png" alt="Screenshot 1" width="200"/>
-  <img src="https://github.com/abdur-android-dev/Get-All-Videos-in-Android-Jetpack-Compose/blob/master/screen_2.png" alt="Screenshot 2" width="200"/>
-  <img src="https://github.com/abdur-android-dev/Get-All-Videos-in-Android-Jetpack-Compose/blob/master/screen_3.png" alt="Screenshot 3" width="200"/>
+  <img src="https://github.com/abdur-android-dev/Simple-Student-Registration-Android-Compose-Room-Database/blob/master/preview_1.png" alt="Screenshot 1" width="200"/>
+  <img src="https://github.com/abdur-android-dev/Simple-Student-Registration-Android-Compose-Room-Database/blob/master/preview_2.png" alt="Screenshot 2" width="200"/>
+  <img src="https://github.com/abdur-android-dev/Simple-Student-Registration-Android-Compose-Room-Database/blob/master/preview_3.png" alt="Screenshot 3" width="200"/>
 </p>
 
 <h2>Prerequisites</h2>
@@ -48,7 +48,7 @@ A simple basic student registration app that stores and retrieves ID, Name, Emai
     implementation 'io.coil-kt:coil-compose:2.5.0'</code></pre>
 
 <h2>Licence</h2>
-<code>This project is licensed under the Apache License, Version 2.0 - see the <a href="https://github.com/abdur-android-dev/Get-All-Videos-in-Android-Jetpack-Compose/blob/master/LICENSE.txt">LICENSE</a> file for details.</code>
+<code>This project is licensed under the Apache License, Version 2.0 - see the <a href="https://github.com/abdur-android-dev/Simple-Student-Registration-Android-Compose-Room-Database/blob/master/LICENSE.txt">LICENSE</a> file for details.</code>
 
 <h3>Acknowledgments</h3>
 <li>This is was a test project</li>

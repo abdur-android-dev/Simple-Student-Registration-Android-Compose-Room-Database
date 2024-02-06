@@ -21,7 +21,7 @@ A simple basic student registration app that stores and retrieves ID, Name, Emai
 
 <h2>Getting Started</h2>
 <li>Clone the repository:</li>
-<pre><code></code>git clone https://github.com/abdur-android-dev/Get-All-Videos-in-Android-Jetpack-Compose.git</code></pre>
+<pre><code></code>git clone https://github.com/abdur-android-dev/Simple-Student-Registration-Android-Compose-Room-Database.git</code></pre>
 <li>Open the project in Android Studio.</li>
 <li>Build and run the app on an Android emulator or device.</li>
 
